@@ -16,12 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": #"https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
@@ -54,6 +54,7 @@
   "skills": [
     {
       "programming": "C C++ Python"
+    }
   ],
   "languages": ["chinese","english" ],
   "interests": [],
