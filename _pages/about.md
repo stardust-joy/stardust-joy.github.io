@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Tsinghua University](https://www.tsinghua.edu.cn/), a visiting student at St Peter College in Oxford University(https://www.spc.ox.ac.uk/). My research interest includes high energy astrophysics and cosmology.
+I'm a third year undergraduate student from [Tsinghua University](https://www.tsinghua.edu.cn/), a visiting student at [St Peter College in Oxford University](https://www.spc.ox.ac.uk/). My research interest includes high energy astrophysics and cosmology.
