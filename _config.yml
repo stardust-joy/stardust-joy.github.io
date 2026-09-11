@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Wenzhuo Tang / Site Title"
+title                    : "Wenzhuo Tang`s Personal Website"
 title_separator          : "-"
 name                     : &name "Wenzhuo Tang"
 description              : &description "Wenzhuo Tang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Wenzhuo Tang"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "A Physics Undergraduate Student"
+  location         : "Beijing China"
   education         : "Tsinghua University"
   uri              : # URL
   email            : #"none@example.org" 
@@ -221,9 +221,6 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
