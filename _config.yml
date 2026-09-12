@@ -313,12 +313,12 @@ plugins:
 
 # Mimic GitHub Pages with --safe
 whitelist:
- # - jekyll-feed
-  #- jekyll-gist
-  #- jekyll-paginate
-  #- jekyll-sitemap
-  #- jekyll-redirect-from
-  #- jemoji
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
 
 
 # Archives
