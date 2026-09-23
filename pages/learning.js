@@ -1,54 +1,14 @@
 // Add one object here for each day you want to publish.
 const entries = [
   {
-    date: "2026-09-15",
-    title: "My JavaScript Learning Plan",
-    minutes: 60,
-    tags: ["JavaScript", "Planning"],
-    content: [
-      "Today I planned my next steps for learning JavaScript. I will start with variables, data types, and functions.",
-      "After that, I want to practise DOM events by adding simple interactions to my personal website."
-    ]
-  },
-  {
-    date: "2026-09-18",
-    title: "Getting Started with CSS Layouts",
-    minutes: 35,
-    tags: ["CSS", "Web Design"],
-    content: [
-      "I learned how CSS controls colors, fonts, spacing, and the overall appearance of a webpage.",
-      "I also tried Flexbox and made a simple layout that works on both desktop and mobile screens."
-    ]
-  },
-  {
-    date: "2026-09-20",
-    title: "HTML Basics: Links and Images",
-    minutes: 95,
-    tags: ["HTML", "Web Development"],
-    content: [
-      "Today I practised using headings, paragraphs, links, and images in HTML.",
-      "I learned that external links should include https://, while links to pages in my own website can use relative paths.",
-      "I also added a profile image to my homepage."
-    ]
-  },
-  {
-    date: "2026-09-22",
-    title: "Making a Responsive Navigation Bar",
-    minutes: 45,
-    tags: ["CSS", "Responsive Design"],
-    content: [
-      "I worked on the navigation bar for my website and adjusted its layout for smaller screens.",
-      "A media query lets me change the layout when the screen width becomes narrow."
-    ]
-  },
-  {
     date: "2026-09-23",
-    title: "Building a Searchable Learning Journal",
+    title: "Building a Personal Website",
     minutes: 75,
-    tags: ["HTML", "CSS", "JavaScript"],
+    tags: ["HTML", "CSS", "JavaScript", "Github"],
     content: [
-      "I designed a journal page with one entry for each study day.",
-      "The page includes a search box, previous and next entry buttons, and a calendar that visualizes daily study time."
+      "I made a personal website with AI assistance.",
+      "html is for what we see in the page, css is in what way we want our content to be shown, adn css is for interesting effects on the website."
+      "by using command "href" one can point to another page or an external website, but the writing format of the desired position should be paid attention to." 
     ]
   }
 ].sort((a, b) => a.date.localeCompare(b.date));
