@@ -149,7 +149,7 @@ h1 {
 .research h4 {
   font-size: 0.90rem;
   font-weight: 500;
-  color: 202624;
+  color: var(--accent);
 }
 
 .site-footer {
